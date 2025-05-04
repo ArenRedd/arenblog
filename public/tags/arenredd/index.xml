@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Arenredd on </title>
-    <link>/tags/arenredd/</link>
+    <link>//localhost:1313/tags/arenredd/</link>
     <description>Recent content in Arenredd on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 06 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="/tags/arenredd/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 06 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/arenredd/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cyber Log</title>
-      <link>/posts/my-insane-blog/</link>
+      <link>//localhost:1313/posts/my-insane-blog/</link>
       <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>/posts/my-insane-blog/</guid>
+      <guid>//localhost:1313/posts/my-insane-blog/</guid>
       <description>!
 Today, I am attempting to create my own cryptocurrency using Kali Linux. It has been quite challenging, but I successfully created a cryptocurrency with the Solana wallet. However, I am having trouble customizing it.
 I also came across a YouTube video about running Windows on Linux and vice versa using WSL, which seemed interesting. I&amp;rsquo;ve started the process of setting up a dual boot. My first step was to split my disk partition, but I encountered a problem: since Kali Linux is installed on the main partition, I can’t split it directly from my installed Kali system.</description>
-      <content>&lt;p&gt;!&lt;img alt=&#34;Image Description&#34; src=&#34;/images/backiee-298776-landscape.png&#34;&gt;&lt;/p&gt;
+      <content>&lt;p&gt;!&lt;img alt=&#34;Image Description&#34; src=&#34;//localhost:1313/images/backiee-298776-landscape.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Today, I am attempting to create my own cryptocurrency using Kali Linux. It has been quite challenging, but I successfully created a cryptocurrency with the Solana wallet. However, I am having trouble customizing it.&lt;/p&gt;
 &lt;p&gt;I also came across a YouTube video about running Windows on Linux and vice versa using WSL, which seemed interesting. I&amp;rsquo;ve started the process of setting up a dual boot. My first step was to split my disk partition, but I encountered a problem: since Kali Linux is installed on the main partition, I can’t split it directly from my installed Kali system.&lt;/p&gt;
 &lt;p&gt;To work around this, I installed Kali Linux for live boot on a USB drive. After splitting my partition, I flashed the USB drive with the Windows 11 ISO. However, when I installed Windows, it did not recognize my UN-allocated partition. To resolve this, I found a compatible storage driver for my laptop and saved it on the same USB drive with the Windows ISO.&lt;/p&gt;

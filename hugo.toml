@@ -20,10 +20,10 @@ pagination.pagerSize = 5
   showLanguageSelector = false
 
   # set theme to full screen width
-  fullWidthTheme = false
+  fullWidthTheme = true
 
   # center theme with default width
-  centerTheme = false
+  centerTheme = true
 
   # if your resource directory contains an image called `cover.(jpg|png|webp)`,
   # then the file will be used as a cover automatically.
@@ -65,11 +65,11 @@ pagination.pagerSize = 5
 
 
 [params.twitter]
-  # set Twitter handles for Twitter cards
-  # see https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started#card-and-content-attribution
+   #set Twitter handles for Twitter cards
+  # see https://x.com/aren_redd
   # do not include @
-  creator = ""
-  site = ""
+  creator = "arenredd"
+  site = "https://x.com/aren_redd"
 
 [languages]
   [languages.en.params]
